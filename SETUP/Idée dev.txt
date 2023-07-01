@@ -1,0 +1,50 @@
+Idée Dev : 
+
+Au bout de 30 sec de jeu la range de la bombe augmente de 1 carré toutes les 30 sec 
+
+A Faire :
+
+refaire range bombe (dimentions)✔️ plus sens --
+
+ajout de butin quand un block ce casse
+
+remettre colision devant
+
+Fini :
+revoir affichage pseudo + perso choisi ✔️
+
+écran de win/lose ✔️
+
+script de liaison entre perso / joueur/ touche ✔️
+
+input perso ✔️ input bombe ✔️
+
+ idée✔️
+
+entrée des pseudo✔️
+
+timer de game ✔️ + stop game ✔️
+
+écran de fin✔️
+
+mettre le song ✔️
+
+changer skin perso (soit couleur ; soit tout le perso)✔️
+
+limite de selection 2 max ✔️
+
+timer select✔️
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
